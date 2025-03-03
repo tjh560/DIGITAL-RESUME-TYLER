@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+    font-family: "Roboto Mono", monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: black;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header {
+    background: #660000;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #660000 3px solid;
+}
+header h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+}
+header p {
+    text-align: center;
+    font-size: 18px;
+}
+.section {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.section h2 {
+    color: #333;
+    border-bottom: 4px solid #660000;
+    padding-bottom: 10px;
+}
+.section ul {
+    list-style-type: none;
+    padding: 0;
+}
+.section ul li {
+    margin-bottom: 10px;
+}
+.section ul li strong {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.section ul li p {
+    margin: 0;
+}
+footer {
+    background: #660000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+.skills {
+    font-style: italic;
+    font-size: 18px;
+}
+.dates{
+    font-size: 18px;
+    font-style: italic;
+}
+.gradDate{
+    text-align: right;
+}
