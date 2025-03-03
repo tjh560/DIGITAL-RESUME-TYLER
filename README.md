@@ -1,1 +1,2 @@
 # digital-resume-tyler
+My name is Tyler Hatfield. I am a senior at Mississippi State University studying Computer Engineering. My passions lie with controls and robotics, renewable energy, and power distribution.
